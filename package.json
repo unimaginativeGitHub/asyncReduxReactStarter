@@ -1,0 +1,27 @@
+{
+  "name": "async",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "latest",
+    "redux-logger": "latest"
+  },
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest",
+    "react-redux": "latest",
+    "redux": "latest",
+    "redux-thunk": "latest",
+    "eslint": "latest",
+    "eslint-plugin-react": "latest",
+    "babel-eslint": "latest",
+    "eslint-config-react-app": "latest",
+    "eslint-plugin-import": "latest",
+    "react-bootstrap": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  }
+}
