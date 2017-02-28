@@ -1,4 +1,7 @@
-# Part of this readme is extracted from the Redux Async Example
+# Basic Redux async app
+
+This project is based on the Redux Async example and most of this readme is extracted from that readme:
+https://github.com/reactjs/redux/tree/master/examples/async
 
 ## Available Scripts
 
